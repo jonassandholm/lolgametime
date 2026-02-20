@@ -1,2 +1,2 @@
-# bumlegends
-Användning av RIOT API för att se och visa data på vissa spelares speltid per dygn
+# lolgametime project
+Personligt projekt där man genom användning av RIOT API kan se flera spelares speltid för att hålla kolla på spel vanor.
